@@ -1,0 +1,12 @@
+{
+  "{98779635-2D86-44C0-8943-A7A584E2B149}": {
+    "source": "{\n  \"name\": \"log\",\n  \"version\": \"0.0.2\",\n  \"description\": \"wes log\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/wachaon/log.git\"\n  },\n  \"keywords\": [\n    \"wes\",\n    \"log\"\n  ],\n  \"author\": \"wachaon\",\n  \"license\": \"MIT\",\n  \"bugs\": {\n    \"url\": \"https://github.com/wachaon/log/issues\"\n  },\n  \"homepage\": \"https://github.com/wachaon/log#readme\"\n}",
+    "mapping": {},
+    "path": "{log}/package.json"
+  },
+  "{760D3633-5410-49DD-ABC4-693E80812E0A}": {
+    "source": "",
+    "mapping": {},
+    "path": "{log}/index.js"
+  }
+}
