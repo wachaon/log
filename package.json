@@ -1,6 +1,6 @@
 {
   "name": "log",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "wes log",
   "main": "index.js",
   "scripts": {
